@@ -19,4 +19,5 @@ Só escolher um prato e fazer a movimentação dele
 
 ## Histórico
 Ao selecionar o prato, vai aparecer a movimentação dele
+
 <img width="586" height="330" alt="image" src="https://github.com/user-attachments/assets/cf1fd30f-a5c6-48bb-8106-a0e46686d820" />
