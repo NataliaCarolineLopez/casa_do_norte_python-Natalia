@@ -13,6 +13,7 @@ Todas as opções de pratos irá aparecer nesta página
 
 ## Registrar movimentação
 Só escolher um prato e fazer a movimentação dele
+
 <img width="344" height="272" alt="image" src="https://github.com/user-attachments/assets/c1a55136-1547-4052-a7c6-e8c25f38d0c8" />
 <img width="233" height="138" alt="image" src="https://github.com/user-attachments/assets/11522784-3533-421f-81ef-2c409ce89ab2" />
 
